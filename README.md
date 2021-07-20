@@ -15,7 +15,10 @@
 
 ### 빠른 시일 내에 추가적으로 또 다른 방법의 백신 매크로를 만들려고 합니다(조금만 기다려주세욥🙆🏻‍♂️)
 ## Contributing
+ 
  많은  PR 부탁드립니다!:-)
+ ### Colaborator
+ - trip-io
  ### Contributors
     
 ## MIT
