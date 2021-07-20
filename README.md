@@ -10,7 +10,7 @@
 -------------------------
 
 ## [사용법]
-1. 네이버 백신 예약 사이트에(https://m.place.naver.com/rest/vaccine)에 들어갑니다. 
+1. [네이버 백신 예약 사이트](https://m.place.naver.com/rest/vaccine)에( https://m.place.naver.com/rest/vaccine )에 들어갑니다. 
 2. 개발자 도구(f12)를 누릅니다. 
 3. console창에 'macro.js' 파일의 코드를 입력하고 엔터를 칩니다. 
 4. 잔여백신이 뜨면 자동적으로 예약신청하기 버튼을 눌러주고, 백신선택 및 신청 페이지로 넘어가게 됩니다.
