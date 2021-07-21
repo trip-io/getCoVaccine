@@ -17,5 +17,5 @@ let text = x[0].getElementsByTagName('strong')[0].innerText;//대기중, 0, 1, 2
     }
 }
 
-//1초마다 실행
+//2초마다 실행
 refeat= setInterval(jabja,2000);
